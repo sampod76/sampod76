@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sampod Chandra Nath
 #### I am MARN stack developer
-![I am MERN stack developer](https://i.ibb.co/XsN93d7/Cream-Retro-Illustration-Freelancer-Linkedin-Article-Cover-Image-1.png)
+![I am MERN stack developer](https://i.ibb.co/wYYYjMm/Cream-Retro-Illustration-Freelancer-Linkedin-Article-Cover-Image-2.png)
 
 I love programming and can do anything very quickly.
 
