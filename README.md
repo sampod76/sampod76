@@ -4,7 +4,7 @@
 
 I love programming and can do anything very quickly.
 
-Skills:  REACT / JS / HTML / CSS 
+Skills: HTML,CSS,JavaScript,TypeScript,Reactjs,Nextjs,Reudx,Nodejs,Expressjs,Mongodb,Docker,Github
 
 - 🔭 I’m currently working on E-commerce website 
 - 🌱 I’m currently learning JavaScript 
