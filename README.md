@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sampod Chandra Nath
 #### I am Full stack developer
-![I am Full stack developer](https://i.ibb.co/wc1mVP1/Cream-Retro-Illustration-Freelancer-Linkedin-Article-Cover-Image.jpg)
+![I am Full stack developer](https://i.ibb.co/wc1mVP1/Cream-Retro-Illustration-Freelancer-Linkedin-Article-Cover-Image.jp)
 
 I love programming and can do anything very quickly.
 
