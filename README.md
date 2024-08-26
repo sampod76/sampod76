@@ -4,7 +4,7 @@
 
 I love programming and can do anything very quickly.
 
-Skills: HTML,CSS,TailwindCss,Antd,JavaScript,TypeScript,Reactjs,Nextjs,Reudx,Nodejs,Expressjs,Mongodb,Docker,Github
+Skills: Redis,Kafka,Docker,Antd,JavaScript,TypeScript,Reactjs,Nextjs,Reudx,Nodejs,Expressjs,Mongodb,HTML,CSS,TailwindCss
 
 - 🔭 I’m currently working on E-commerce website 
 - 🌱 I’m currently learning JavaScript 
