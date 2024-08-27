@@ -97,6 +97,7 @@ Skills: Redis,Kafka,Docker,Antd,JavaScript,TypeScript,Reactjs,Nextjs,Reudx,Nodej
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampod76&" alt="sampod76" />
   </p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </div>
 
 
