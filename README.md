@@ -4,7 +4,7 @@
 
 I love programming and can do anything very quickly.
 
-Skills: Redis,Kafka,Docker,Antd,JavaScript,TypeScript,Reactjs,Nextjs,Reudx,Nodejs,Expressjs,Mongodb,HTML,CSS,TailwindCss
+Skills: Redis, Kafka, SocketIo, WebRTC, Docker, Antd, JavaScript, TypeScript, Reactjs, Nextjs, Reudx, Nodejs, Expressjs, Mongodb, HTML,CSS,TailwindCss
 
 - 🔭 I’m currently working on Scalable Chat App 
 - 🌱 I’m currently learning Docker 
