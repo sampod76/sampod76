@@ -6,7 +6,7 @@ I love programming and can do anything very quickly.
 
 Skills: Redis, Kafka, SocketIo, WebRTC, Docker, Antd, JavaScript, TypeScript, Reactjs, Nextjs, Reudx, Nodejs, Expressjs, Mongodb, HTML,CSS,TailwindCss
 
-- 🔭 I’m currently working on Scalable Chat App 
+- 🔭 I’m currently working on Video,Audio call (WebRTC) 
 - 🌱 I’m currently learning Docker 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about I love programming and can do anything very quickly.We try to use the latest technology in any project 
