@@ -26,6 +26,9 @@ Skills: Redis,Kafka,Docker,Antd,JavaScript,TypeScript,Reactjs,Nextjs,Reudx,Nodej
     <a href="https://redis.io" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
     </a> 
+    <a href="https://socket.io" target="_blank" rel="noreferrer"> 
+      <img src="https://i1.wp.com/www.ux-republic.com/wp-content/uploads/2018/03/socket.png?fit=375%2C375&ssl=1" alt="socketIo" width="40" height="40"/> 
+    </a> 
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
     </a> 
@@ -34,6 +37,9 @@ Skills: Redis,Kafka,Docker,Antd,JavaScript,TypeScript,Reactjs,Nextjs,Reudx,Nodej
     </a> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+    </a> 
+    <a href="https://bullmq.io" target="_blank" rel="noreferrer"> 
+      <img src="https://bullmq.io/images/bullmq-logo.png" alt="bullmq" width="40" height="40"/> 
     </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
