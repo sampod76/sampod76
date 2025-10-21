@@ -4,7 +4,11 @@
 
 I love programming and can do anything very quickly.
 
-Skills: Redis, Kafka, SocketIo, WebRTC, Docker, Mongodb,Postgresql,prisma, Antd, JavaScript, TypeScript, Reactjs, Nextjs, Reudx, Nodejs, Expressjs,GraphQL, HTML,CSS,TailwindCss
+Skills: 
+Frontend: React.js · Next.js · Redux · RTK Query · Ant Design · Tailwind CSS · IndexedDB · WebRTC · PWA · Push Notification
+Backend: Node.js · TypeScript · Express.js · Redis · Kafka · Socket.IO · GraphQL · Elasticsearch · BullMQ · RabbitMQ · Microservices Architecture
+Database: PostgreSQL · MongoDB · RealmDB (Offline DB) · Prisma ORM · Mongoose
+Tools & DevOps: Docker · Swagger · Jest (Unit & Integration) · Jira · AWS (EC2, S3, SES, CDN) · Grafana · Prometheus · Loki
 
 - 🔭 I’m currently working on Video,Audio call (WebRTC) 
 - 🌱 I’m currently learning Docker 
