@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sampod Chandra Nath
 #### I am Full stack developer
-![I am Full stack developer](https://collection.cloudinary.com/dqvhxpu11/c7f5272bad4351281551f5e2b21f659d)
+![I am Full stack developer](https://res.cloudinary.com/dqvhxpu11/image/upload/v1789466647/coverimage_ylofx7.png)
 
 I love programming and can do anything very quickly.
 
